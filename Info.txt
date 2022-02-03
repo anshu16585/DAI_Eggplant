@@ -1,0 +1,1 @@
+This is a sample Eggplant suite which is to be tested for CI/CD in a jenkins instance
