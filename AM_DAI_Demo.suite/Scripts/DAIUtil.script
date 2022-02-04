@@ -2,7 +2,7 @@
 (*
 Handler to return the rectangle of the head part of the page
 Parameter: N/A
-Returns: Rectangle
+Returns: Rect
 *)
 to getHeaderRect
 	return ([topLeft(RemoteScreenRectangle()),[right(RemoteScreenRectangle()),bottom(ImageRectangle ("image_KeySight_Logo"))]])
