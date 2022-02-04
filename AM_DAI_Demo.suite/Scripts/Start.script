@@ -1,5 +1,6 @@
 ﻿TypeText windowsKey, "r"
 TypeText "taskkill /IM chrome.exe" & return
 
+//calling the hander
 DAIUtil.uRLToLoad
 
