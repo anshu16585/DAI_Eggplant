@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		717,
+		560,
+		74,
+		31
+	],
+	"lastmodifieddate": 1643768192.7119999,
+	"createddate": 1643768192.7119999,
+	"name": "WF_License_Portal/Btn_Login",
+	"lastfounddate": 1643856165.6820002,
+	"ocrcapturestring": "Login",
+	"lastfoundlocation": [
+		717,
+		604,
+		74,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,7]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_License_Portal/Btn_Login.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					717,
+					560,
+					74,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Login"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		580,
+		261,
+		78,
+		14
+	],
+	"lastmodifieddate": 1643684789.286,
+	"createddate": 1643683618.0469999,
+	"name": "Label_Firstname",
+	"lastfounddate": 1643856092.76,
+	"ocrcapturestring": "First name",
+	"lastfoundlocation": [
+		616,
+		658,
+		78,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[39,7]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Try_Eggplant/Label_Firstname.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					580,
+					261,
+					78,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "First name"
+			}
+	]
+}

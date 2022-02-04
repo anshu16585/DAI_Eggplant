@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		500,
+		852,
+		110,
+		21
+	],
+	"lastmodifieddate": 1643765928.2259998,
+	"createddate": 1643765928.2259998,
+	"name": "WF_Downloads/Btn_LogintoPortal",
+	"lastfounddate": 1643856129.0420001,
+	"ocrcapturestring": "Login to Portal",
+	"lastfoundlocation": [
+		500,
+		497,
+		110,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[28,9]",
+					"Tolerance": "_49",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Downloads/Btn_LogintoPortal.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					500,
+					852,
+					110,
+					21
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Login to Portal"
+			}
+	]
+}

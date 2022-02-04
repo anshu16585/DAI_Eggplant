@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1284,
+		440,
+		85,
+		18
+	],
+	"lastmodifieddate": 1643764236.1560001,
+	"createddate": 1643764236.1560001,
+	"name": "WF_Support/Label_ViewUser",
+	"lastfounddate": 1643856144.1289999,
+	"ocrcapturestring": "View User",
+	"lastfoundlocation": [
+		1284,
+		585,
+		85,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[42,9]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Support/Label_ViewUser.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					1284,
+					440,
+					85,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "View User"
+			}
+	]
+}

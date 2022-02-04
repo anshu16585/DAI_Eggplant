@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Try_Eggplant.script",
+				"identifier": "START",
+				"timestamp": "2022-01-31 20:55:12.601 -0600"
+			},
+		{
+				"message": "(Duration:\"14.703\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2022-01-31 20:55:12 -0600\", Successes:\"0\", TestCase:\"WF_Try_Eggplant.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-01-31 20:55:27.304 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:14 WF_Try_Eggplant.script",
+				"identifier": "ABORTED",
+				"timestamp": "2022-01-31 20:55:27.304 -0600"
+			}
+	],
+	"createdTimestamp": "2022-01-31 20:55:12.601 -0600"
+}

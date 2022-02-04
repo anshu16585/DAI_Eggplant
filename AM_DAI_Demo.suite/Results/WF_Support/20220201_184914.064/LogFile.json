@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Support.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 18:49:14.073 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-02-01 18:49:14.233 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 18:49:14.413 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "at (1201, 151)",
+				"image": "WF_Support/Btn_Resources",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 18:49:30.127 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "No Image Found On Screen: \"WF_Support/Btn_Support\"",
+				"image": "WF_Support/Btn_Support",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"16.225\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2022-02-01 18:49:14 -0600\", Successes:\"0\", TestCase:\"WF_Support.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 18:49:30.304 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:16 WF_Support.script",
+				"identifier": "ABORTED",
+				"timestamp": "2022-02-01 18:49:30.314 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 18:49:14.078 -0600"
+}

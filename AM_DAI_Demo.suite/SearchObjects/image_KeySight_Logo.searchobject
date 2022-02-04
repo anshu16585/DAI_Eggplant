@@ -1,0 +1,72 @@
+{
+	"lastmodifieddate": 1643683164.5050001,
+	"lastfoundlocation": [
+		352,
+		175,
+		56,
+		68
+	],
+	"originalcapturelocation": [
+		350,
+		128,
+		60,
+		72
+	],
+	"createddate": 1643680772.573,
+	"lastfounddate": 1643856010.862,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[30,36]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "image_KeySight_Logo.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"capturerect": [
+					350,
+					128,
+					60,
+					72
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "18.130.6.118"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[2,2,58,70]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[28,34]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "image_KeySight_Logo.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"capturerect": [
+					350,
+					128,
+					56,
+					68
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "18.130.6.118"
+			}
+	],
+	"name": "image_KeySight_Logo"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_Try_Eggplant_script" package="AM_DAI_Demo.suite" timestamp="2022-01-31 20:37:17.777 -0600"
+ tests="1"  failures="0" errors="0" time="246.402000">
+  <properties>
+   <property name="RunDate" value="2022-01-31 20:37:17.777 -0600"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="WF_Try_Eggplant.script" assertions="1" status="error"  time="246.396">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

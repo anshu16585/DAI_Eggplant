@@ -1,0 +1,335 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_DAI_Learn_More.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 18:57:24.503 -0600"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:24.846 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "at (393, 604)",
+				"image": "WF_DAI_Learn_More/Btn_Learnmore",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:24.866 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:28.429 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_DAI_Learn_More/Btn_Submit",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 8,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:30.732 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Firstname",
+				"image": "WF_Try_Eggplant/Label_Firstname",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:32.949 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Lastname",
+				"image": "WF_Try_Eggplant/Label_Lastname",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:35.242 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_WorkEmail",
+				"image": "WF_Try_Eggplant/Label_WorkEmail",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:37.404 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Companyname",
+				"image": "WF_Try_Eggplant/Label_Companyname",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:37.409 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 32,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:40.976 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_DAI_Learn_More/Btn_Submit",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:43.099 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Firstname",
+				"image": "WF_Try_Eggplant/Label_Firstname",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:45.366 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Lastname",
+				"image": "WF_Try_Eggplant/Label_Lastname",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:47.469 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_WorkEmail",
+				"image": "WF_Try_Eggplant/Label_WorkEmail",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:49.610 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Companyname",
+				"image": "WF_Try_Eggplant/Label_Companyname",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:49.665 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 32,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:53.359 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_DAI_Learn_More/Btn_Submit",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:55.487 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Firstname",
+				"image": "WF_Try_Eggplant/Label_Firstname",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:57.670 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Lastname",
+				"image": "WF_Try_Eggplant/Label_Lastname",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:57:59.796 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_WorkEmail",
+				"image": "WF_Try_Eggplant/Label_WorkEmail",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:01.909 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_Companyname",
+				"image": "WF_Try_Eggplant/Label_Companyname",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:01.913 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 32,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:05.552 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_DAI_Learn_More/Btn_Submit",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:05.649 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (655, 647)",
+				"image": "WF_Try_Eggplant/Label_Firstname",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:05.758 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (654, 748)",
+				"image": "WF_Try_Eggplant/Label_Lastname",
+				"handlerLine": 16,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:07.939 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_WorkEmail",
+				"image": "WF_Try_Eggplant/Label_WorkEmail",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:08.151 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (678, 852)",
+				"image": "WF_Try_Eggplant/Label_Companyname",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:08.156 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 32,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:11.708 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_DAI_Learn_More/Btn_Submit",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:13.958 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "Unable to Find Image WF_Try_Eggplant/Label_WorkEmail",
+				"image": "WF_Try_Eggplant/Label_WorkEmail",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.009 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (678, 452)",
+				"image": "WF_Try_Eggplant/Label_Companyname",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.014 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 32,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.867 -0600",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"message": "found at (944, 795)",
+				"image": "WF_DAI_Learn_More/Btn_Submit",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.871 -0600",
+				"message": "Assertion Succeeded: First Name Field Displays(true: [FirstName = true])",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 35,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.874 -0600",
+				"message": "Assertion Succeeded: Last Name Field Displays(true: [LastName = true])",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 36,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.878 -0600",
+				"message": "Assertion Error: Work Email Field Displays(false: [WorkEmail = true])",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 37,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.882 -0600",
+				"message": "Assertion Succeeded: Company Name Field Displays(true: [ComanyName = true])",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 38,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_dai_learn_more",
+				"timestamp": "2022-02-01 18:58:14.886 -0600",
+				"message": "Assertion Error: Phone Number Field Displays(false: [PhoneNumber = true])",
+				"scriptName": "WF_DAI_Learn_More.script",
+				"handlerLine": 39,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"50.605\", Errors:\"2\", Exceptions:\"0\", StartTime:\"2022-02-01 18:57:24 -0600\", Successes:\"3\", TestCase:\"WF_DAI_Learn_More.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 18:58:15.113 -0600"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 2 -- Execution Time 0:00:50 WF_DAI_Learn_More.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-02-01 18:58:15.253 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 18:57:24.506 -0600"
+}

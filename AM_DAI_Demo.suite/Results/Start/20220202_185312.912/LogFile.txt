@@ -1,0 +1,5 @@
+﻿2022-02-02 18:53:12.919 -0600	START		Running Start.script
+2022-02-02 18:53:13.108 -0600	typetext		[windowsKey]r	1	on_start	Start.script
+2022-02-02 18:53:14.468 -0600	typetext		chrome "urlToLoad"[return]	2	on_start	Start.script
+2022-02-02 18:53:14.592 -0600	EndTestCase		(Duration:"1.657", Errors:"0", Exceptions:"0", StartTime:"2022-02-02 18:53:12 -0600", Successes:"1", TestCase:"Start.script", Warnings:"0")
+2022-02-02 18:53:14.623 -0600	SUCCESS		Execution Time 0:00:01 Start.script

@@ -1,0 +1,61 @@
+﻿(*Click {ImageName:"WF_Support/Btn_Resources", SearchRectangle: DAIUtil.getHeaderRect}
+WaitFor 15, "Btn_Chrome_Refresh"
+Click {ImageName:"WF_Support/Btn_Support"}
+WaitFor 15, "Btn_Chrome_Refresh" *)
+
+TypeText windowsKey, "r"
+TypeText "taskkill /IM chrome.exe" & return
+
+DAIUtil.uRLToLoad "support"
+
+set GetStarted = false
+set Browse = false
+set View = false
+set Create = false
+set Manage = false
+
+repeat until ImageFound("WF_Support/Label_Manage")
+	ScrollWheelDown 4
+	if GetStarted = false
+		if ImageFound(ImageName: "WF_Support/Label_GetStarted", WaitFor: 2)
+			set GetStarted to true
+			CaptureScreen {Name: "Get Started Link Found"}
+			
+		end if 
+	end if
+	
+	if Browse = false
+		if ImageFound(ImageName:"WF_Support/Label_BrowseDocs", WaitFor: 2)
+			set Browse to true
+			CaptureScreen {Name: "Browse Docs & FAQ link Found"}
+		end if  
+	end if
+	
+	if View = false
+		if  ImageFound(ImageName:"WF_Support/Label_ViewUser", WaitFor: 2)
+			set View to true
+			CaptureScreen {Name: "View User Forums link Found"}
+		end if
+	end if
+	
+	if Create = false
+		if   ImageFound(ImageName:"WF_Support/Label_CreateSupport", WaitFor: 2)
+			set Create to true
+			CaptureScreen {Name: "Create Support Case link Found"}
+		end if
+	end if
+	
+	if Manage = false
+		if   ImageFound(ImageName:"WF_Support/Label_Manage", WaitFor: 2)
+			set Manage to true
+			CaptureScreen {Name: "Manage your Support Case link Found"}
+		end if
+	end if
+	
+end repeat
+
+Assert that [GetStarted = true] With Error "Get Started Link Displays"
+Assert that [Browse = true] With Error "Browse Docs & FAQ link Displays"
+Assert that [View = true] With Error "View User Forums link Displays"
+Assert that [Create = true] With Error "Create Support Case link Displays"
+Assert that [Manage = true] With Error "Manage your Support Case link Displays"

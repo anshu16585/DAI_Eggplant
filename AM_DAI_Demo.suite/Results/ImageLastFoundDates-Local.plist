@@ -1,0 +1,35 @@
+{
+    "Btn_Chrome_Refresh.png" = "2022-02-03 02:42 +0000";
+    "Btn_Search.png" = "2022-02-01 02:58 +0000";
+    "NewFolder/Btn_Resources.png" = "2022-02-01 03:14 +0000";
+    "WF_DAI_Learn_More/Btn_Learnmore.png" = "2022-02-03 02:40 +0000";
+    "WF_DAI_Learn_More/Btn_Submit.png" = "2022-02-03 02:41 +0000";
+    "WF_Downloads/Btn_Download/Btn_Download.png" = "2022-02-03 02:42 +0000";
+    "WF_Downloads/Btn_Download/Btn_Download_selected.png" = "2022-02-02 02:11 +0000";
+    "WF_Downloads/Btn_Downloads.png" = "2022-02-02 02:06 +0000";
+    "WF_Downloads/Btn_LogintoPortal.png" = "2022-02-03 02:42 +0000";
+    "WF_Downloads/Label_DigitalAutomationIntelligence.png" = "2022-02-03 02:41 +0000";
+    "WF_Downloads/Label_MonitoringInsights.png" = "2022-02-03 02:42 +0000";
+    "WF_Downloads/Label_PerformanceandLoadTesting.png" = "2022-02-03 02:42 +0000";
+    "WF_Downloads/Label_RoboticProcessAutomation.png" = "2022-02-03 02:42 +0000";
+    "WF_License_Portal/Btn_LicencePortal.png" = "2022-02-02 02:15 +0000";
+    "WF_License_Portal/Btn_Login.png" = "2022-02-03 02:42 +0000";
+    "WF_License_Portal/Btn_Register.png" = "2022-02-03 02:42 +0000";
+    "WF_License_Portal/Link_Quickreferenceguide.png" = "2022-02-03 02:42 +0000";
+    "WF_Support/Btn_Resources.png" = "2022-02-02 02:14 +0000";
+    "WF_Support/Btn_Support/Btn_Support.png" = "2022-02-02 02:11 +0000";
+    "WF_Support/Btn_Support/Btn_Support_Selected.png" = "2022-02-02 02:10 +0000";
+    "WF_Support/Label_BrowseDocs.png" = "2022-02-03 02:42 +0000";
+    "WF_Support/Label_CreateSupport.png" = "2022-02-03 02:42 +0000";
+    "WF_Support/Label_GetStarted.png" = "2022-02-03 02:42 +0000";
+    "WF_Support/Label_Manage.png" = "2022-02-03 02:42 +0000";
+    "WF_Support/Label_ViewUser.png" = "2022-02-03 02:42 +0000";
+    "WF_Try_Eggplant/Btn_Submit.png" = "2022-02-03 02:40 +0000";
+    "WF_Try_Eggplant/Label_Companyname.png" = "2022-02-03 02:41 +0000";
+    "WF_Try_Eggplant/Label_Firstname.png" = "2022-02-03 02:41 +0000";
+    "WF_Try_Eggplant/Label_Lastname.png" = "2022-02-03 02:41 +0000";
+    "WF_Try_Eggplant/Label_Phonenumber.png" = "2022-02-03 02:40 +0000";
+    "WF_Try_Eggplant/Label_WorkEmail/Label_WorkEmail.png" = "2022-02-03 02:40 +0000";
+    "WF_Try_Eggplant/Label_WorkEmail/Workemail.png" = "2022-02-03 02:41 +0000";
+    "image_KeySight_Logo.png" = "2022-02-03 02:40 +0000";
+}

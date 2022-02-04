@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Start_script" package="AM_DAI_Demo.suite" timestamp="2022-02-02 18:54:51.971 -0600"
+ tests="1"  failures="0" errors="0" time="3.237000">
+  <properties>
+   <property name="RunDate" value="2022-02-02 18:54:51.971 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Start.script" assertions="1" status="success"  time="3.228">
+  </testcase>
+ </testsuite>
+</testsuites>

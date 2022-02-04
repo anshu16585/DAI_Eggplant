@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="WF_Try_Eggplant">
+ <run>
+  <RunDate>2022-01-31 20:37:17.777 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>246.402000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_203717.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:41:24.615 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>0.732000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_204124.615/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:42:57.990 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>209.211000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_204257.990/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:50:11.744 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>134.455000</Duration>
+  <Errors>5</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205011.744/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 5</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:52:50.652 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>95.989000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205250.652/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:55:12.596 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>14.708000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205512.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:55:43.294 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.176000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205543.294/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Range -- Only numeric, date/time, and character ranges are supported (got &quot;False&quot; TO &quot;False&quot;).</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:56:27.949 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.483000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205627.949/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Range -- Only numeric, date/time, and character ranges are supported (got &quot;False&quot; TO &quot;False&quot;).</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:56:53.266 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.798000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205653.266/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Range -- Only numeric, date/time, and character ranges are supported (got &quot;False&quot; TO &quot;False&quot;).</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:57:37.762 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>17.403000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205737.762/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:58:01.062 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>75.441000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205801.062/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 20:59:19.182 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>33.592000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_205919.182/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:01:35.683 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>88.661000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220131_210135.683/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:03:24.289 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>51.505000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220131_210324.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:04:49.080 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>42.432000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220131_210449.080/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:07:50.872 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>35.898000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220131_210750.872/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:10:26.079 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.353000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220131_211026.079/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands: can&#x27;t subtract &#x27;False&#x27; from &#x27;False&#x27; (expected numbers, date and number, or lists)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-01-31 21:10:51.765 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>26.691000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220131_211051.765/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

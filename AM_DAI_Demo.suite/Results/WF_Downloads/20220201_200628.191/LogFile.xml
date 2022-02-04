@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_Downloads_script" package="AM_DAI_Demo.suite" timestamp="2022-02-01 20:06:28.191 -0600"
+ tests="1"  failures="0" errors="0" time="12.252000">
+  <properties>
+   <property name="RunDate" value="2022-02-01 20:06:28.191 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="WF_Downloads.script" assertions="6" status="success"  time="12.247">
+  </testcase>
+ </testsuite>
+</testsuites>

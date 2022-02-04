@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1156,
+		144,
+		68,
+		13
+	],
+	"lastmodifieddate": 1643685255.642,
+	"createddate": 1643685255.642,
+	"name": "NewFolder/Btn_Resources",
+	"lastfounddate": 1643768063.9650002,
+	"ocrcapturestring": "Resources",
+	"lastfoundlocation": [
+		1099,
+		144,
+		68,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[45,7]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "NewFolder/Btn_Resources.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					1156,
+					144,
+					68,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Resources"
+			}
+	]
+}

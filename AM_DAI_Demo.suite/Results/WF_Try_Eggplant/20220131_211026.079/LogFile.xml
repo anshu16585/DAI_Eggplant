@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_Try_Eggplant_script" package="AM_DAI_Demo.suite" timestamp="2022-01-31 21:10:26.079 -0600"
+ tests="1"  failures="1" errors="0" time="5.353000">
+  <properties>
+   <property name="RunDate" value="2022-01-31 21:10:26.079 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="WF_Try_Eggplant.script" assertions="1" status="failure"  time="5.345">
+    <failure type="FAILURE" message="SenseTalk Runtime Exception: Invalid operands: can't subtract 'False' from 'False' (expected numbers, date and number, or lists) -- Execution Time 0:00:05 WF_Try_Eggplant.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

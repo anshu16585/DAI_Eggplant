@@ -1,0 +1,185 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Downloads.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 19:50:43.664 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-02-01 19:50:43.825 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:44.004 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "at (1144, 151)",
+				"image": "WF_Support/Btn_Resources",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:44.026 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:44.943 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "at (795, 469)",
+				"image": "WF_Downloads/Btn_Downloads",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:44.964 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:51.925 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "Unable to Find Image WF_Downloads/Btn_LogintoPortal",
+				"image": "WF_Downloads/Btn_LogintoPortal",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:52.031 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (529, 732)",
+				"image": "WF_Downloads/Label_DigitalAutomationIntelligence",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:52.260 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Digital Automation Intelligence Label Found.png",
+				"handlerLine": 16,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:52.384 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (1291, 733)",
+				"image": "WF_Downloads/Label_PerformanceandLoadTesting",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:52.612 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Performance and Load testing Label Found.png",
+				"handlerLine": 24,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:54.872 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "Unable to Find Image WF_Downloads/Label_MonitoringInsights",
+				"image": "WF_Downloads/Label_MonitoringInsights",
+				"handlerLine": 29,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:57.131 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "Unable to Find Image WF_Downloads/Label_RoboticProcessAutomation",
+				"image": "WF_Downloads/Label_RoboticProcessAutomation",
+				"handlerLine": 36,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:57.135 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 41,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.434 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (528, 861)",
+				"image": "WF_Downloads/Btn_LogintoPortal",
+				"handlerLine": 42,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.437 -0600",
+				"message": "Assertion Error: Digital Automation Intelligence Label Displays(false: [GetStarted = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 44,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.442 -0600",
+				"message": "Assertion Error: Performance and Load testing Label Displays(false: [Browse = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 45,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.447 -0600",
+				"message": "Assertion Error: Monitoring Insight Label Displays(false: [Monitoring = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 46,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.452 -0600",
+				"message": "Assertion Error: Robotic Process Automation Label Displays(false: [Robotic = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 47,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 19:50:58.708 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (1138, 527)",
+				"image": "WF_Downloads/Btn_Download",
+				"handlerLine": 48,
+				"identifier": "imagefound"
+			},
+		{
+				"message": "(Duration:\"15.229\", Errors:\"5\", Exceptions:\"0\", StartTime:\"2022-02-01 19:50:43 -0600\", Successes:\"0\", TestCase:\"WF_Downloads.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 19:50:58.897 -0600"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'True'. -- Execution Time 0:00:15 WF_Downloads.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-02-01 19:50:59.046 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 19:50:43.667 -0600"
+}

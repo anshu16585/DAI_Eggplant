@@ -1,0 +1,5 @@
+﻿2022-01-31 20:41:24.621 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 20:41:24.721 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-01-31 20:41:25.279 -0600	Exception		Searching For Image: OCR Error: Operation was aborted	1	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:41:25.347 -0600	EndTestCase		(Duration:"0.724", Errors:"1", Exceptions:"1", StartTime:"2022-01-31 20:41:24 -0600", Successes:"0", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 20:41:25.347 -0600	ABORTED		Execution Time 0:00:00 WF_Try_Eggplant.script

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		367,
+		599,
+		80,
+		14
+	],
+	"lastmodifieddate": 1643763096.3759999,
+	"createddate": 1643763096.3759999,
+	"name": "WF_DAI_Learn_More/Btn_Learnmore",
+	"lastfounddate": 1643856050.5440001,
+	"ocrcapturestring": "Learn more",
+	"lastfoundlocation": [
+		367,
+		644,
+		80,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[26,5]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_DAI_Learn_More/Btn_Learnmore.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					367,
+					599,
+					80,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Learn more"
+			}
+	]
+}

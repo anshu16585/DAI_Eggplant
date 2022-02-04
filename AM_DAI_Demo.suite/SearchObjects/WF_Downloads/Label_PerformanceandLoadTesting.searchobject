@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1116,
+		321,
+		351,
+		25
+	],
+	"lastmodifieddate": 1643765818.207,
+	"createddate": 1643765818.207,
+	"name": "WF_Downloads/Label_PerformanceandLoadTesting",
+	"lastfounddate": 1643856120.247,
+	"ocrcapturestring": "Performance and Load Testing",
+	"lastfoundlocation": [
+		1116,
+		666,
+		351,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[175,12]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Downloads/Label_PerformanceandLoadTesting.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					1116,
+					321,
+					351,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Performance and Load Testing"
+			}
+	]
+}

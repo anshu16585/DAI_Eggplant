@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1523,
+		141,
+		19,
+		20
+	],
+	"lastmodifieddate": 1643682607.0799999,
+	"createddate": 1643682607.0799999,
+	"name": "Btn_Search",
+	"lastfounddate": 1643684305.5479999,
+	"ocrcapturestring": "Q",
+	"lastfoundlocation": [
+		1523,
+		141,
+		19,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[7,2]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Search.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					1523,
+					141,
+					19,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q"
+			}
+	]
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="WF_Support">
+ <run>
+  <RunDate>2022-02-01 18:49:14.064 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.239000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220201_184914.064/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 20:05:28.941 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.936000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220201_200528.941/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: WF_Support/Label_WorkEmail/Label_GetStarted</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 20:06:11.344 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.199000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20220201_200611.344/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

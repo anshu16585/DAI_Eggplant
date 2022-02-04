@@ -1,0 +1,92 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Support.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 20:05:28.948 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-02-01 20:05:29.098 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:29.262 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "at (1201, 151)",
+				"image": "WF_Support/Btn_Resources",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:29.277 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:30.153 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "at (794, 355)",
+				"image": "WF_Support/Btn_Support",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:30.184 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:33.757 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "Unable to Find Image WF_Support/Label_Manage",
+				"image": "WF_Support/Label_Manage",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:33.757 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:05:33.757 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "Could Not Open Image: WF_Support/Label_WorkEmail/Label_GetStarted",
+				"image": "WF_Support/Label_WorkEmail/Label_GetStarted",
+				"handlerLine": 15,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"4.927\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2022-02-01 20:05:28 -0600\", Successes:\"0\", TestCase:\"WF_Support.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 20:05:33.877 -0600"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: imagefound Error - Could Not Open Image: WF_Support/Label_WorkEmail/Label_GetStarted -- Execution Time 0:00:04 WF_Support.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-02-01 20:05:34.066 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 20:05:28.950 -0600"
+}

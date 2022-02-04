@@ -1,0 +1,57 @@
+﻿TypeText windowsKey, "r"
+TypeText "taskkill /IM chrome.exe" & return
+
+DAIUtil.uRLToLoad
+
+Click {Text:"Try Eggplant", SearchRectangle: DAIUtil.getHeaderRect}
+WaitFor 15, "Btn_Chrome_Refresh"
+
+set FirstName = false
+set LastName = false
+set WorkEmail = false
+set CompanyName = false
+set PhoneNumber = false
+repeat until ImageFound("WF_Try_Eggplant/Btn_Submit")
+	if FirstName = false
+		if ImageFound(ImageName: "WF_Try_Eggplant/Label_Firstname", WaitFor: 2)
+			set FirstName to true
+			CaptureScreen {Name: "First Name Found"}
+		end if 
+	end if
+	
+	if LastName = false
+		if ImageFound(ImageName: "WF_Try_Eggplant/Label_Lastname", WaitFor: 2)
+			set LastName to true
+			CaptureScreen {Name: "Last Name Found"}
+		end if  
+	end if
+	
+	if WorkEmail = false
+		if  ImageFound(ImageName: "WF_Try_Eggplant/Label_WorkEmail", WaitFor: 2)
+			set WorkEmail to true
+			CaptureScreen {Name: "Work Email Found"}
+		end if
+	end if
+	
+	if CompanyName = false
+		if   ImageFound(ImageName: "WF_Try_Eggplant/Label_Companyname", WaitFor: 2)
+			set ComanyName to true
+			CaptureScreen {Name: "Company Name Found"}
+		end if
+	end if
+	
+	if PhoneNumber = false
+		if  ImageFound(ImageName: "WF_Try_Eggplant/Label_Phonenumber", WaitFor: 2)
+			set PhoneNumber = true
+			CaptureScreen {Name: "Phone Number Found"}
+		end if
+	end if
+	ScrollWheelDown 4
+end repeat
+
+Assert that [FirstName = true] With Error "First Name Field Displays"
+Assert that [LastName = true] With Error "Last Name Field Displays"
+Assert that [WorkEmail = true] With Error "Work Email Field Displays"
+Assert that [ComanyName = true] With Error "Company Name Field Displays"
+Assert that [PhoneNumber = true] With Error "Phone Number Field Displays"
+

@@ -1,0 +1,16 @@
+﻿(*Click {ImageName:"WF_Support/Btn_Resources", SearchRectangle: DAIUtil.getHeaderRect}
+WaitFor 15, "Btn_Chrome_Refresh"
+Click {ImageName:"WF_License_Portal/Btn_LicencePortal"}
+WaitFor 15, "Btn_Chrome_Refresh", *)
+
+TypeText windowsKey, "r"
+TypeText "taskkill /IM chrome.exe" & return
+
+DAIUtil.uRLToLoad "license"
+
+Assert that [Imagefound( "WF_License_Portal/Btn_Login")] With Error "Login to portal Link Display"
+Assert that [Imagefound("WF_License_Portal/Btn_Register")] With Error "Register to portal Link Display"
+Assert that [Imagefound( "WF_License_Portal/Link_Quickreferenceguide")] With Error "Quick Reference Guide Link Display"
+
+CaptureScreen {Name: "Licence Portal displays Correctly"}
+

@@ -1,0 +1,19 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2022-01-31 20:37:17.777 -0600,"Aborted",0:04:06,1,0,1,"20220131_203717.777/LogFile.txt","","",0
+2022-01-31 20:41:24.615 -0600,"Aborted",0:00:00,1,0,1,"20220131_204124.615/LogFile.txt","","",0
+2022-01-31 20:42:57.990 -0600,"Aborted",0:03:29,1,0,1,"20220131_204257.990/LogFile.txt","","",0
+2022-01-31 20:50:11.744 -0600,"Failure",0:02:14,5,0,0,"20220131_205011.744/LogFile.txt","","Script Error -- Number of Errors logged: 5",0
+2022-01-31 20:52:50.652 -0600,"Aborted",0:01:35,1,0,0,"20220131_205250.652/LogFile.txt","","",0
+2022-01-31 20:55:12.596 -0600,"Aborted",0:00:14,1,0,0,"20220131_205512.596/LogFile.txt","","",0
+2022-01-31 20:55:43.294 -0600,"Failure",0:00:08,1,0,0,"20220131_205543.294/LogFile.txt","","Invalid Range -- Only numeric, date/time, and character ranges are supported (got ""False"" TO ""False"").",0
+2022-01-31 20:56:27.949 -0600,"Failure",0:00:08,1,0,0,"20220131_205627.949/LogFile.txt","","Invalid Range -- Only numeric, date/time, and character ranges are supported (got ""False"" TO ""False"").",0
+2022-01-31 20:56:53.266 -0600,"Failure",0:00:25,1,0,0,"20220131_205653.266/LogFile.txt","","Invalid Range -- Only numeric, date/time, and character ranges are supported (got ""False"" TO ""False"").",0
+2022-01-31 20:57:37.762 -0600,"Aborted",0:00:17,1,0,0,"20220131_205737.762/LogFile.txt","","",0
+2022-01-31 20:58:01.062 -0600,"Aborted",0:01:15,1,0,0,"20220131_205801.062/LogFile.txt","","",0
+2022-01-31 20:59:19.182 -0600,"Aborted",0:00:33,1,0,0,"20220131_205919.182/LogFile.txt","","",0
+2022-01-31 21:01:35.683 -0600,"Success",0:01:28,0,0,0,"20220131_210135.683/LogFile.txt","","",5
+2022-01-31 21:03:24.289 -0600,"Success",0:00:51,0,0,0,"20220131_210324.289/LogFile.txt","","",5
+2022-01-31 21:04:49.080 -0600,"Success",0:00:42,0,0,0,"20220131_210449.080/LogFile.txt","","",5
+2022-01-31 21:07:50.872 -0600,"Success",0:00:35,0,0,0,"20220131_210750.872/LogFile.txt","","",5
+2022-01-31 21:10:26.079 -0600,"Failure",0:00:05,1,0,0,"20220131_211026.079/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'False' from 'False' (expected numbers, date and number, or lists)",0
+2022-01-31 21:10:51.765 -0600,"Success",0:00:26,0,0,0,"20220131_211051.765/LogFile.txt","","",5

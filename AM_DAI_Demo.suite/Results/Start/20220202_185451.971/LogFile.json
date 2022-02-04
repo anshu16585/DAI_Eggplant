@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Start.script",
+				"identifier": "START",
+				"timestamp": "2022-02-02 18:54:51.977 -0600"
+			},
+		{
+				"handlerName": "on_start",
+				"timestamp": "2022-02-02 18:54:52.090 -0600",
+				"message": "[windowsKey]r",
+				"scriptName": "Start.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_start",
+				"timestamp": "2022-02-02 18:54:55.100 -0600",
+				"message": "chrome \"https://www.eggplantsoftware.com/digital-automation-intelligence\"[return]",
+				"scriptName": "Start.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.228\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-02-02 18:54:51 -0600\", Successes:\"1\", TestCase:\"Start.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-02 18:54:55.209 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:03 Start.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2022-02-02 18:54:55.251 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-02 18:54:51.980 -0600"
+}

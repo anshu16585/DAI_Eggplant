@@ -1,0 +1,1 @@
+2022-01-31 21:10:26.079 -0600,Failure,0:00:05,1,0,0,20220131_211026.079/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'False' from 'False' (expected numbers, date and number, or lists)",0

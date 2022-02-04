@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Start.script",
+				"identifier": "START",
+				"timestamp": "2022-02-02 18:53:12.919 -0600"
+			},
+		{
+				"handlerName": "on_start",
+				"timestamp": "2022-02-02 18:53:13.108 -0600",
+				"message": "[windowsKey]r",
+				"scriptName": "Start.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_start",
+				"timestamp": "2022-02-02 18:53:14.468 -0600",
+				"message": "chrome \"urlToLoad\"[return]",
+				"scriptName": "Start.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"1.657\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-02-02 18:53:12 -0600\", Successes:\"1\", TestCase:\"Start.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-02 18:53:14.592 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:01 Start.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2022-02-02 18:53:14.623 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-02 18:53:12.919 -0600"
+}

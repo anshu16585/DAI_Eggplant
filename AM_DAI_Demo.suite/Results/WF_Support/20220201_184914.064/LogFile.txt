@@ -1,0 +1,6 @@
+﻿2022-02-01 18:49:14.073 -0600	START		Running WF_Support.script
+2022-02-01 18:49:14.233 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-02-01 18:49:14.413 -0600	click	WF_Support/Btn_Resources	at (1201, 151)	1	on_wf_support	WF_Support.script
+2022-02-01 18:49:30.127 -0600	Exception	WF_Support/Btn_Support	No Image Found On Screen: "WF_Support/Btn_Support"	2	on_wf_support	WF_Support.script
+2022-02-01 18:49:30.304 -0600	EndTestCase		(Duration:"16.225", Errors:"1", Exceptions:"1", StartTime:"2022-02-01 18:49:14 -0600", Successes:"0", TestCase:"WF_Support.script", Warnings:"0")
+2022-02-01 18:49:30.314 -0600	ABORTED		Execution Time 0:00:16 WF_Support.script

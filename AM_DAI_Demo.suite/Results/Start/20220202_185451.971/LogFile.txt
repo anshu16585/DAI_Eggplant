@@ -1,0 +1,5 @@
+﻿2022-02-02 18:54:51.977 -0600	START		Running Start.script
+2022-02-02 18:54:52.090 -0600	typetext		[windowsKey]r	3	on_start	Start.script
+2022-02-02 18:54:55.100 -0600	typetext		chrome "https://www.eggplantsoftware.com/digital-automation-intelligence"[return]	4	on_start	Start.script
+2022-02-02 18:54:55.209 -0600	EndTestCase		(Duration:"3.228", Errors:"0", Exceptions:"0", StartTime:"2022-02-02 18:54:51 -0600", Successes:"1", TestCase:"Start.script", Warnings:"0")
+2022-02-02 18:54:55.251 -0600	SUCCESS		Execution Time 0:00:03 Start.script

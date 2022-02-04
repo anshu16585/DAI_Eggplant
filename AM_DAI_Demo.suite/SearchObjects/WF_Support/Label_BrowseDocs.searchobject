@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		863,
+		441,
+		110,
+		20
+	],
+	"lastmodifieddate": 1643764203.921,
+	"createddate": 1643764203.921,
+	"name": "WF_Support/Label_BrowseDocs",
+	"lastfounddate": 1643856143.872,
+	"ocrcapturestring": "Browse Docs",
+	"lastfoundlocation": [
+		863,
+		586,
+		110,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[55,10]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Support/Label_BrowseDocs.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					863,
+					441,
+					110,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Browse Docs"
+			}
+	]
+}

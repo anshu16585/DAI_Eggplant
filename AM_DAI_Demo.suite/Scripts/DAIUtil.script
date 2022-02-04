@@ -1,0 +1,41 @@
+﻿
+(*
+Handler to return the rectangle of the head part of the page
+Parameter: N/A
+Returns: Rect
+*)
+to getHeaderRect
+	return ([topLeft(RemoteScreenRectangle()),[right(RemoteScreenRectangle()),bottom(ImageRectangle ("image_KeySight_Logo"))]])
+end getHeaderRect
+
+
+to getTryEggplantFormRect
+	return ([topLeft(ImageRectangle(imageName:"image_KeySight_Logo")),[right(ImageRectangle("Btn_Search")),bottom(RemoteScreenRectangle())]])
+end getTryEggplantFormRect
+
+
+(*
+Handler to return the URL based on page requested
+Parameter: page, the name of the page to be loaded
+Returns: N/A
+*)
+
+to uRLToLoad page
+	if page = ""
+		set urlToLoad = "https://www.eggplantsoftware.com/digital-automation-intelligence"
+	end if
+	if page = "support"
+		set urlToLoad = "https://www.eggplantsoftware.com/support"
+		
+	end if
+	if page = "downloads"
+		set urlToLoad  = "https://www.eggplantsoftware.com/product-downloads"
+	end if
+	if page = "license"
+		set urlToLoad = "https://ksm.software.keysight.com/ASM/External/default.aspx"
+	end if
+	
+	TypeText windowsKey, "r" -- open the Run window
+	TypeText  "chrome" && quote & urlToLoad & quote & return
+	Waitfor 15, "Btn_Chrome_Refresh"
+end uRLToLoad

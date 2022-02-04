@@ -1,0 +1,18 @@
+﻿2022-01-31 20:56:27.954 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 20:56:28.067 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-01-31 20:56:29.076 -0600	click	(TEXT:"Try Eggplant")	at (1421, 151)	1	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:32.833 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	8	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:32.864 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:32.879 -0600	imagerectangle	Btn_Search	at [1523,141,1542,161]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.021 -0600	imagefound	Label_Firstname	found at (619, 868)	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:33.068 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.131 -0600	imagerectangle	Btn_Search	at [1523,141,1542,161]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.256 -0600	imagefound	Label_Lastname	found at (1003, 867)	12	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:33.318 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.381 -0600	imagerectangle	Btn_Search	at [1523,141,1542,161]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.490 -0600	imagefound	Label_WorkEmail	found at (608, 969)	15	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:33.553 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:33.631 -0600	imagerectangle	Btn_Search	at [1523,141,1542,161]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:56:36.320 -0600	imagefound	Label_Companyname	Unable to Find Image Label_Companyname	18	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:56:36.432 -0600	EndTestCase		(Duration:"8.476", Errors:"1", Exceptions:"0", StartTime:"2022-01-31 20:56:27 -0600", Successes:"0", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 20:56:36.587 -0600	FAILURE	Screen_Error.png	Invalid Range: Only numeric, date/time, and character ranges are supported (got "False" TO "False"). -- Execution Time 0:00:08 WF_Try_Eggplant.script

@@ -1,0 +1,22 @@
+﻿2022-02-01 19:53:26.934 -0600	START		Running WF_Downloads.script
+2022-02-01 19:53:27.103 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-02-01 19:53:27.267 -0600	click	WF_Support/Btn_Resources	at (1144, 151)	2	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:27.288 -0600	waitfor	WF_DAI_Learn_More/Btn_Chrome_Refresh	found at (84, 54)	3	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:28.864 -0600	click	WF_Downloads/Btn_Downloads	at (795, 469)	4	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:28.884 -0600	waitfor	WF_DAI_Learn_More/Btn_Chrome_Refresh	found at (84, 54)	5	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:35.870 -0600	imagefound	WF_Downloads/Btn_LogintoPortal	Unable to Find Image WF_Downloads/Btn_LogintoPortal	12	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:35.938 -0600	imagefound	WF_Downloads/Label_DigitalAutomationIntelligence	found at (529, 732)	14	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:36.162 -0600	capturescreen	Digital Automation Intelligence Label Found.png		16	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:36.262 -0600	imagefound	WF_Downloads/Label_PerformanceandLoadTesting	found at (1291, 733)	22	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:53:36.476 -0600	capturescreen	Performance and Load testing Label Found.png		24	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:03.287 -0600	imagefound	WF_Downloads/Label_MonitoringInsights	Unable to Find Image WF_Downloads/Label_MonitoringInsights	29	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:05.409 -0600	imagefound	WF_Downloads/Label_RoboticProcessAutomation	Unable to Find Image WF_Downloads/Label_RoboticProcessAutomation	36	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:05.413 -0600	scrollwheeldown		moved 4	41	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.711 -0600	imagefound	WF_Downloads/Btn_LogintoPortal	found at (528, 861)	42	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.716 -0600	LogSuccess		Assertion Succeeded: Digital Automation Intelligence Label Displays(true: [Digital = true])	44	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.722 -0600	LogSuccess		Assertion Succeeded: Performance and Load testing Label Displays(true: [Performance = true])	45	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.727 -0600	LogError		Assertion Error: Monitoring Insight Label Displays(false: [Monitoring = true])	46	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.732 -0600	LogError		Assertion Error: Robotic Process Automation Label Displays(false: [Robotic = true])	47	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:06.970 -0600	imagefound	WF_Downloads/Btn_Download	found at (1138, 527)	48	on_wf_downloads	WF_Downloads.script
+2022-02-01 19:54:07.172 -0600	EndTestCase		(Duration:"40.232", Errors:"3", Exceptions:"0", StartTime:"2022-02-01 19:53:26 -0600", Successes:"2", TestCase:"WF_Downloads.script", Warnings:"0")
+2022-02-01 19:54:07.324 -0600	FAILURE	Screen_Error.png	BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'True'. -- Execution Time 0:00:40 WF_Downloads.script

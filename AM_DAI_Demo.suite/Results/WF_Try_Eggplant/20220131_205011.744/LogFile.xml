@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_Try_Eggplant_script" package="AM_DAI_Demo.suite" timestamp="2022-01-31 20:50:11.744 -0600"
+ tests="1"  failures="6" errors="0" time="134.455000">
+  <properties>
+   <property name="RunDate" value="2022-01-31 20:50:11.744 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="WF_Try_Eggplant.script" assertions="5" status="failure"  time="134.447">
+    <failure type="LogError" message="Assertion Error: First Name Field Displays(false: [FirstName = true])" />
+    <failure type="LogError" message="Assertion Error: Last Name Field Displays(false: [LastName = true])" />
+    <failure type="LogError" message="Assertion Error: Work Email Field Displays(false: [WorkEmail = true])" />
+    <failure type="LogError" message="Assertion Error: Company Name Field Displays(false: [ComanyName = true])" />
+    <failure type="LogError" message="Assertion Error: Phone Number Field Displays(false: [PhoneNumber = true])" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 5 -- Execution Time 0:02:14 WF_Try_Eggplant.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

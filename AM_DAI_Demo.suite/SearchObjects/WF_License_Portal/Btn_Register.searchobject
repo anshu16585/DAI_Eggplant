@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		594,
+		415,
+		91,
+		31
+	],
+	"lastmodifieddate": 1643768171.0650001,
+	"createddate": 1643768171.0650001,
+	"name": "WF_License_Portal/Btn_Register",
+	"lastfounddate": 1643856165.733,
+	"ocrcapturestring": "Register",
+	"lastfoundlocation": [
+		594,
+		459,
+		91,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[40,1]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_License_Portal/Btn_Register.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					594,
+					415,
+					91,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Register"
+			}
+	]
+}

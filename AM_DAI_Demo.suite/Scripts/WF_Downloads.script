@@ -1,0 +1,58 @@
+﻿
+(*Click {ImageName:"WF_Support/Btn_Resources", SearchRectangle: DAIUtil.getHeaderRect}
+WaitFor 15, "Btn_Chrome_Refresh"
+Click {ImageName:"WF_Downloads/Btn_Downloads"}
+WaitFor 15, "Btn_Chrome_Refresh" *)
+
+
+TypeText windowsKey, "r"
+TypeText "taskkill /IM chrome.exe" & return
+
+DAIUtil.uRLToLoad "downloads"
+
+
+set Digital = false
+set Performance = false
+set Monitoring = false
+set Robotic = false
+
+repeat until ImageFound("WF_Downloads/Btn_LogintoPortal")
+	ScrollWheelDown 4
+	if Digital = false
+		if ImageFound(ImageName: "WF_Downloads/Label_DigitalAutomationIntelligence", WaitFor: 2)
+			set Digital to true
+			CaptureScreen {Name: "Digital Automation Intelligence Label Found"}
+			
+		end if 
+	end if
+	
+	if Performance = false
+		if ImageFound(ImageName:"WF_Downloads/Label_PerformanceandLoadTesting", WaitFor: 2)
+			set Performance to true
+			CaptureScreen {Name: "Performance and Load testing Label Found"}
+		end if  
+	end if
+	
+	if Monitoring = false
+		if  ImageFound(ImageName:"WF_Downloads/Label_MonitoringInsights", WaitFor: 2)
+			set Monitoring to true
+			CaptureScreen {Name: "Monitoring Insight Label Found"}
+		end if
+	end if
+	
+	if Robotic = false
+		if   ImageFound(ImageName:"WF_Downloads/Label_RoboticProcessAutomation", WaitFor: 2)
+			set Robotic to true
+			CaptureScreen {Name: "Robotic Process Automation Label Found"}
+		end if
+	end if
+	
+end repeat
+
+Assert that [Digital = true] With Error "Digital Automation Intelligence Label Displays"
+Assert that [Performance = true] With Error "Performance and Load testing Label Displays"
+Assert that [Monitoring = true] With Error "Monitoring Insight Label Displays"
+Assert that [Robotic = true] With Error "Robotic Process Automation Label Displays"
+Assert that [number of items of EveryImageLocation("WF_Downloads/Btn_Download") = 3] With Error "Download link for 3 Labels Display"
+Assert that [Imagefound( "WF_Downloads/Btn_LogintoPortal")] With Error "Login to portal Link Display"
+

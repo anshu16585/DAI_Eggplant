@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		761,
+		419,
+		105,
+		17
+	],
+	"lastmodifieddate": 1643768089.187,
+	"createddate": 1643768089.187,
+	"name": "WF_License_Portal/Btn_LicencePortal",
+	"lastfounddate": 1643768131.27,
+	"ocrcapturestring": "Licence Portal",
+	"lastfoundlocation": [
+		760,
+		419,
+		105,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[48,11]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_License_Portal/Btn_LicencePortal.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					761,
+					419,
+					105,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Licence Portal"
+			}
+	]
+}

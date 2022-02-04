@@ -1,0 +1,8 @@
+﻿2022-01-31 21:10:26.085 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 21:10:26.196 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-01-31 21:10:26.814 -0600	click	(TEXT:"Try Eggplant")	at (1449, 151)	1	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:10:30.807 -0600	imagefound	WF_Try_Eggplant/Btn_Submit	Unable to Find Image WF_Try_Eggplant/Btn_Submit	8	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:10:31.120 -0600	imagefound	WF_Try_Eggplant/Label_Firstname	found at (619, 868)	10	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:10:31.293 -0600	imagefound	WF_Try_Eggplant/Label_Lastname	found at (1003, 867)	16	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:10:31.432 -0600	EndTestCase		(Duration:"5.345", Errors:"1", Exceptions:"0", StartTime:"2022-01-31 21:10:26 -0600", Successes:"0", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 21:10:31.592 -0600	FAILURE	Screen_Error.png	SenseTalk Runtime Exception: Invalid operands: can't subtract 'False' from 'False' (expected numbers, date and number, or lists) -- Execution Time 0:00:05 WF_Try_Eggplant.script

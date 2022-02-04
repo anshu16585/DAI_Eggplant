@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		77,
+		42,
+		20,
+		20
+	],
+	"lastmodifieddate": 1643849764.802,
+	"createddate": 1643763176.102,
+	"name": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+	"lastfounddate": 1643856165.5320001,
+	"ocrcapturestring": "c",
+	"lastfoundlocation": [
+		77,
+		42,
+		20,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[7,12]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Chrome_Refresh.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					77,
+					42,
+					20,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "c"
+			}
+	]
+}

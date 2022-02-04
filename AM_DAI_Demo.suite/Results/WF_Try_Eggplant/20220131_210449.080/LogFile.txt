@@ -1,0 +1,39 @@
+﻿2022-01-31 21:04:49.086 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 21:04:49.184 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-01-31 21:04:50.043 -0600	click	(TEXT:"Try Eggplant")	at (1449, 151)	1	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:04:53.767 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	8	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:04:54.041 -0600	imagefound	Label_Firstname	found at (619, 868)	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:04:54.331 -0600	imagefound	Label_Lastname	found at (1003, 867)	12	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:04:56.600 -0600	imagefound	Label_WorkEmail	Unable to Find Image Label_WorkEmail	15	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:04:58.799 -0600	imagefound	Label_Companyname	Unable to Find Image Label_Companyname	18	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:01.074 -0600	imagefound	Label_Phonenumber	Unable to Find Image Label_Phonenumber	21	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:01.090 -0600	scrollwheeldown		moved 4	24	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:04.691 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	25	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:04.769 -0600	imagefound	Label_Firstname	found at (619, 468)	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:04.847 -0600	imagefound	Label_Lastname	found at (1003, 467)	12	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:04.941 -0600	imagefound	Label_WorkEmail	found at (608, 569)	15	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:05.035 -0600	imagefound	Label_Companyname	found at (642, 678)	18	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:05.144 -0600	imagefound	Label_Phonenumber	found at (651, 782)	21	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:05.160 -0600	scrollwheeldown		moved 4	24	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:08.784 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	25	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:11.036 -0600	imagefound	Label_Firstname	Unable to Find Image Label_Firstname	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:13.336 -0600	imagefound	Label_Lastname	Unable to Find Image Label_Lastname	12	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:15.583 -0600	imagefound	Label_WorkEmail	Unable to Find Image Label_WorkEmail	15	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:15.677 -0600	imagefound	Label_Companyname	found at (642, 278)	18	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:15.756 -0600	imagefound	Label_Phonenumber	found at (651, 382)	21	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:15.756 -0600	scrollwheeldown		moved 4	24	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:19.337 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	25	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:21.666 -0600	imagefound	Label_Firstname	Unable to Find Image Label_Firstname	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:23.938 -0600	imagefound	Label_Lastname	Unable to Find Image Label_Lastname	12	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:26.102 -0600	imagefound	Label_WorkEmail	Unable to Find Image Label_WorkEmail	15	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:28.229 -0600	imagefound	Label_Companyname	Unable to Find Image Label_Companyname	18	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:30.525 -0600	imagefound	Label_Phonenumber	Unable to Find Image Label_Phonenumber	21	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:30.525 -0600	scrollwheeldown		moved 4	24	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.364 -0600	imagefound	Btn_Submit	found at (629, 569)	25	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.380 -0600	LogSuccess		Assertion Succeeded: First Name Field Displays(true: [FirstName = true])	27	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.380 -0600	LogSuccess		Assertion Succeeded: Last Name Field Displays(true: [LastName = true])	28	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.380 -0600	LogSuccess		Assertion Succeeded: Work Email Field Displays(true: [WorkEmail = true])	29	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.395 -0600	LogSuccess		Assertion Succeeded: Company Name Field Displays(true: [ComanyName = true])	30	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.395 -0600	LogSuccess		Assertion Succeeded: Phone Number Field Displays(true: [PhoneNumber = true])	31	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 21:05:31.512 -0600	EndTestCase		(Duration:"42.424", Errors:"0", Exceptions:"0", StartTime:"2022-01-31 21:04:49 -0600", Successes:"5", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 21:05:31.528 -0600	SUCCESS		Execution Time 0:00:42 WF_Try_Eggplant.script

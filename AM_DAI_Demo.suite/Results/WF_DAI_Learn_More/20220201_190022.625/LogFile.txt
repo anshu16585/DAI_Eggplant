@@ -1,0 +1,38 @@
+﻿2022-02-01 19:00:22.630 -0600	START		Running WF_DAI_Learn_More.script
+2022-02-01 19:00:22.935 -0600	click	WF_DAI_Learn_More/Btn_Learnmore	at (393, 604)	1	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:22.965 -0600	waitfor	WF_DAI_Learn_More/Btn_Chrome_Refresh	found at (84, 54)	2	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:26.816 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	Unable to Find Image WF_DAI_Learn_More/Btn_Submit	8	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:28.969 -0600	imagefound	WF_Try_Eggplant/Label_Firstname	Unable to Find Image WF_Try_Eggplant/Label_Firstname	10	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:31.214 -0600	imagefound	WF_Try_Eggplant/Label_Lastname	Unable to Find Image WF_Try_Eggplant/Label_Lastname	16	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:33.643 -0600	imagefound	WF_Try_Eggplant/Label_WorkEmail	Unable to Find Image WF_Try_Eggplant/Label_WorkEmail	22	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:35.789 -0600	imagefound	WF_Try_Eggplant/Label_Companyname	Unable to Find Image WF_Try_Eggplant/Label_Companyname	28	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:35.861 -0600	scrollwheeldown		moved 4	32	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:39.528 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	Unable to Find Image WF_DAI_Learn_More/Btn_Submit	33	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:41.837 -0600	imagefound	WF_Try_Eggplant/Label_Firstname	Unable to Find Image WF_Try_Eggplant/Label_Firstname	10	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:44.117 -0600	imagefound	WF_Try_Eggplant/Label_Lastname	Unable to Find Image WF_Try_Eggplant/Label_Lastname	16	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:46.448 -0600	imagefound	WF_Try_Eggplant/Label_WorkEmail	Unable to Find Image WF_Try_Eggplant/Label_WorkEmail	22	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:48.725 -0600	imagefound	WF_Try_Eggplant/Label_Companyname	Unable to Find Image WF_Try_Eggplant/Label_Companyname	28	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:48.729 -0600	scrollwheeldown		moved 4	32	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:52.356 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	Unable to Find Image WF_DAI_Learn_More/Btn_Submit	33	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:54.498 -0600	imagefound	WF_Try_Eggplant/Label_Firstname	Unable to Find Image WF_Try_Eggplant/Label_Firstname	10	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:56.716 -0600	imagefound	WF_Try_Eggplant/Label_Lastname	Unable to Find Image WF_Try_Eggplant/Label_Lastname	16	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:00:58.963 -0600	imagefound	WF_Try_Eggplant/Label_WorkEmail	Unable to Find Image WF_Try_Eggplant/Label_WorkEmail	22	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:01.094 -0600	imagefound	WF_Try_Eggplant/Label_Companyname	Unable to Find Image WF_Try_Eggplant/Label_Companyname	28	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:01.151 -0600	scrollwheeldown		moved 4	32	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:04.785 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	Unable to Find Image WF_DAI_Learn_More/Btn_Submit	33	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:04.871 -0600	imagefound	WF_Try_Eggplant/Label_Firstname	found at (655, 647)	10	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:04.992 -0600	imagefound	WF_Try_Eggplant/Label_Lastname	found at (654, 748)	16	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:07.355 -0600	imagefound	WF_Try_Eggplant/Label_WorkEmail	Unable to Find Image WF_Try_Eggplant/Label_WorkEmail	22	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:07.447 -0600	imagefound	WF_Try_Eggplant/Label_Companyname	found at (678, 852)	28	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:07.452 -0600	scrollwheeldown		moved 4	32	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:11.047 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	Unable to Find Image WF_DAI_Learn_More/Btn_Submit	33	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:11.200 -0600	imagefound	WF_Try_Eggplant/Label_WorkEmail	found at (658, 554)	22	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:11.251 -0600	imagefound	WF_Try_Eggplant/Label_Companyname	found at (678, 452)	28	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:11.257 -0600	scrollwheeldown		moved 4	32	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.113 -0600	imagefound	WF_DAI_Learn_More/Btn_Submit	found at (944, 795)	33	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.117 -0600	LogSuccess		Assertion Succeeded: First Name Field Displays(true: [FirstName = true])	35	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.122 -0600	LogSuccess		Assertion Succeeded: Last Name Field Displays(true: [LastName = true])	36	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.126 -0600	LogSuccess		Assertion Succeeded: Work Email Field Displays(true: [WorkEmail = true])	37	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.129 -0600	LogSuccess		Assertion Succeeded: Company Name Field Displays(true: [ComanyName = true])	38	on_wf_dai_learn_more	WF_DAI_Learn_More.script
+2022-02-01 19:01:12.276 -0600	EndTestCase		(Duration:"49.642", Errors:"0", Exceptions:"0", StartTime:"2022-02-01 19:00:22 -0600", Successes:"4", TestCase:"WF_DAI_Learn_More.script", Warnings:"0")
+2022-02-01 19:01:12.304 -0600	SUCCESS		Execution Time 0:00:49 WF_DAI_Learn_More.script

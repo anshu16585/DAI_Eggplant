@@ -1,0 +1,9 @@
+﻿2022-01-31 20:58:01.068 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 20:58:01.167 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-01-31 20:58:02.151 -0600	click	(TEXT:"Try Eggplant")	at (1421, 151)	1	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:58:05.892 -0600	imagefound	Btn_Submit	Unable to Find Image Btn_Submit	8	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:58:25.527 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:58:25.564 -0600	imagerectangle	Btn_Search	at [1523,141,1542,161]	2	function_gettryeggplantformrect	DAIUtil.script
+2022-01-31 20:58:25.673 -0600	imagefound	Label_Firstname	found at (619, 868)	9	on_wf_try_eggplant	WF_Try_Eggplant.script
+2022-01-31 20:59:16.503 -0600	EndTestCase		(Duration:"75.434", Errors:"1", Exceptions:"0", StartTime:"2022-01-31 20:58:01 -0600", Successes:"0", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 20:59:16.519 -0600	ABORTED		Execution Time 0:01:15 WF_Try_Eggplant.script

@@ -1,0 +1,216 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Support.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 20:06:11.349 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-02-01 20:06:11.577 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:11.749 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "at (1144, 151)",
+				"image": "WF_Support/Btn_Resources",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:11.765 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:12.677 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "at (794, 355)",
+				"image": "WF_Support/Btn_Support",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:12.693 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:16.289 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "Unable to Find Image WF_Support/Label_Manage",
+				"image": "WF_Support/Label_Manage",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:16.289 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:16.780 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (530, 548)",
+				"image": "WF_Support/Label_GetStarted",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:16.992 -0600",
+				"scriptName": "WF_Support.script",
+				"image": "Get Started Link Found.png",
+				"handlerLine": 17,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.102 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (918, 551)",
+				"image": "WF_Support/Label_BrowseDocs",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.327 -0600",
+				"scriptName": "WF_Support.script",
+				"image": "Browse Docs & FAQ link Found.png",
+				"handlerLine": 25,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.405 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (1326, 549)",
+				"image": "WF_Support/Label_ViewUser",
+				"handlerLine": 30,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.606 -0600",
+				"scriptName": "WF_Support.script",
+				"image": "View User Forums link Found.png",
+				"handlerLine": 32,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.700 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (722, 846)",
+				"image": "WF_Support/Label_CreateSupport",
+				"handlerLine": 37,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.898 -0600",
+				"scriptName": "WF_Support.script",
+				"image": "Create Support Case link Found.png",
+				"handlerLine": 39,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:17.976 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (1076, 844)",
+				"image": "WF_Support/Label_Manage",
+				"handlerLine": 44,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.178 -0600",
+				"scriptName": "WF_Support.script",
+				"image": "Manage your Support Case link Found.png",
+				"handlerLine": 46,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.287 -0600",
+				"scriptName": "WF_Support.script",
+				"message": "found at (1076, 844)",
+				"image": "WF_Support/Label_Manage",
+				"handlerLine": 50,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.287 -0600",
+				"message": "Assertion Succeeded: Get Started Link Displays(true: [GetStarted = true])",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 52,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.287 -0600",
+				"message": "Assertion Succeeded: Browse Docs & FAQ link Displays(true: [Browse = true])",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 53,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.303 -0600",
+				"message": "Assertion Succeeded: View User Forums link Displays(true: [View = true])",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 54,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.303 -0600",
+				"message": "Assertion Succeeded: Create Support Case link Displays(true: [Create = true])",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 55,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_support",
+				"timestamp": "2022-02-01 20:06:18.303 -0600",
+				"message": "Assertion Succeeded: Manage your Support Case link Displays(true: [Manage = true])",
+				"scriptName": "WF_Support.script",
+				"handlerLine": 56,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"7.194\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-02-01 20:06:11 -0600\", Successes:\"5\", TestCase:\"WF_Support.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 20:06:18.543 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:07 WF_Support.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2022-02-01 20:06:18.590 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 20:06:11.349 -0600"
+}

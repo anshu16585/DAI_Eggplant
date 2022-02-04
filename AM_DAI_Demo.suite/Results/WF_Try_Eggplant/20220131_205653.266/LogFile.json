@@ -1,0 +1,156 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Try_Eggplant.script",
+				"identifier": "START",
+				"timestamp": "2022-01-31 20:56:53.271 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-01-31 20:56:53.384 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:56:54.386 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "at (1421, 151)",
+				"image": "(TEXT:\"Try Eggplant\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:56:57.897 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 8,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:04.540 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:04.571 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [1523,141,1542,161]",
+				"image": "Btn_Search",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:57:04.690 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (619, 868)",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:10.276 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:10.291 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [1523,141,1542,161]",
+				"image": "Btn_Search",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:57:10.357 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (1003, 867)",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:13.750 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:13.851 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [1523,141,1542,161]",
+				"image": "Btn_Search",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:57:14.436 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (608, 969)",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:15.559 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "function_gettryeggplantformrect",
+				"timestamp": "2022-01-31 20:57:15.574 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [1523,141,1542,161]",
+				"image": "Btn_Search",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 20:57:18.071 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Companyname",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"message": "(Duration:\"25.792\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2022-01-31 20:56:53 -0600\", Successes:\"0\", TestCase:\"WF_Try_Eggplant.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-01-31 20:57:19.064 -0600"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Invalid Range: Only numeric, date/time, and character ranges are supported (got \"False\" TO \"False\"). -- Execution Time 0:00:25 WF_Try_Eggplant.script",
+				"identifier": "FAILURE",
+				"timestamp": "2022-01-31 20:57:19.217 -0600"
+			}
+	],
+	"createdTimestamp": "2022-01-31 20:56:53.272 -0600"
+}

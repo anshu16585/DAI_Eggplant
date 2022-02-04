@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		615,
+		346,
+		84,
+		14
+	],
+	"lastmodifieddate": 1643763587.471,
+	"createddate": 1643763587.471,
+	"name": "WF_Try_Eggplant/Label_WorkEmail/Workemail",
+	"lastfounddate": 1643856099.6900001,
+	"ocrcapturestring": "Work email",
+	"lastfoundlocation": [
+		615,
+		564,
+		84,
+		14
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,8]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Try_Eggplant/Label_WorkEmail/Workemail.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					615,
+					346,
+					84,
+					14
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Work email"
+			}
+	]
+}

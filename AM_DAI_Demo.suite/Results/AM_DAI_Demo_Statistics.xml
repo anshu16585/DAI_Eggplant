@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="WF_Downloads">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2022-02-01 19:50:43 -0600</FirstRun>
+  <LastRun>2022-02-01 20:06:28 -0600</LastRun>
+  <TotalTimeOnSuccess>25.062000</TotalTimeOnSuccess>
+ </script>
+ <script name="Start">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2022-02-02 18:53:12 -0600</FirstRun>
+  <LastRun>2022-02-02 18:54:51 -0600</LastRun>
+  <TotalTimeOnSuccess>4.901000</TotalTimeOnSuccess>
+ </script>
+ <script name="WF_Try_Eggplant">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2022-01-31 20:50:11 -0600</FirstRun>
+  <LastRun>2022-01-31 21:10:51 -0600</LastRun>
+  <TotalTimeOnSuccess>245.187000</TotalTimeOnSuccess>
+ </script>
+ <script name="WF_Support">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2022-02-01 20:05:28 -0600</FirstRun>
+  <LastRun>2022-02-01 20:06:11 -0600</LastRun>
+  <TotalTimeOnSuccess>7.199000</TotalTimeOnSuccess>
+ </script>
+ <script name="WF_DAI_Learn_More">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2022-02-01 18:57:24 -0600</FirstRun>
+  <LastRun>2022-02-01 19:00:22 -0600</LastRun>
+  <TotalTimeOnSuccess>49.650000</TotalTimeOnSuccess>
+ </script>
+</statistics>

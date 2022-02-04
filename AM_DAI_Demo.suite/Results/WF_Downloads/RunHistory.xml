@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="WF_Downloads">
+ <run>
+  <RunDate>2022-02-01 19:50:43.656 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>15.240000</Duration>
+  <Errors>5</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220201_195043.656/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;True&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 19:52:02.249 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.970000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20220201_195202.249/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;True&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 19:53:26.927 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>40.243000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20220201_195326.927/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;True&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 19:54:43.205 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>21.143000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220201_195443.205/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 19:55:21.721 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>128.736000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20220201_195521.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 19:57:47.357 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.623000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20220201_195747.357/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;True&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 20:05:07.791 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.810000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20220201_200507.791/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2022-02-01 20:06:28.191 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.252000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20220201_200628.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

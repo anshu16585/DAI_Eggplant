@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		761,
+		456,
+		84,
+		17
+	],
+	"lastmodifieddate": 1643765989.227,
+	"createddate": 1643765989.227,
+	"name": "WF_Downloads/Btn_Downloads",
+	"lastfounddate": 1643767589.382,
+	"ocrcapturestring": "Downloads",
+	"lastfoundlocation": [
+		761,
+		456,
+		84,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[34,13]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Downloads/Btn_Downloads.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					761,
+					456,
+					84,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Downloads"
+			}
+	]
+}

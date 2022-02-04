@@ -1,0 +1,521 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Try_Eggplant.script",
+				"identifier": "START",
+				"timestamp": "2022-01-31 21:01:35.689 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-01-31 21:01:35.790 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:36.767 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "at (1421, 151)",
+				"image": "(TEXT:\"Try Eggplant\")",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:40.541 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 8,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:40.650 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (619, 868)",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:44.974 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (1003, 867)",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:45.178 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (608, 969)",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:48.244 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Companyname",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:51.261 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Phonenumber",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:51.277 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:54.835 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:01:54.929 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (619, 668)",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:01.880 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (1003, 667)",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:01.989 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (608, 769)",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:02.099 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (642, 878)",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:05.171 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Phonenumber",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:05.171 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:08.752 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:08.830 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (619, 468)",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:08.908 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (1003, 467)",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:08.987 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (608, 569)",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:09.080 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (642, 678)",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:09.190 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (651, 782)",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:09.190 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:12.736 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:12.814 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (619, 268)",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:12.861 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (1003, 267)",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:12.907 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (608, 369)",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:12.971 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (642, 478)",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:13.065 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (651, 582)",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:13.065 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:16.582 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:19.614 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Firstname",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:22.837 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Lastname",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:25.839 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_WorkEmail",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:25.886 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (642, 278)",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:25.949 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (651, 382)",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:25.964 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:29.494 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:32.606 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Firstname",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:35.691 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Lastname",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:38.614 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_WorkEmail",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:41.547 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Companyname",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:44.566 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Phonenumber",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:44.566 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:48.182 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Btn_Submit",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:51.152 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Firstname",
+				"image": "Label_Firstname",
+				"handlerLine": 9,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:54.211 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Lastname",
+				"image": "Label_Lastname",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:02:57.239 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_WorkEmail",
+				"image": "Label_WorkEmail",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:00.146 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Companyname",
+				"image": "Label_Companyname",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:03.334 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "Unable to Find Image Label_Phonenumber",
+				"image": "Label_Phonenumber",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:03.349 -0600",
+				"message": "moved 2",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 24,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.208 -0600",
+				"scriptName": "WF_Try_Eggplant.script",
+				"message": "found at (629, 763)",
+				"image": "Btn_Submit",
+				"handlerLine": 25,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.208 -0600",
+				"message": "Assertion Succeeded: First Name Field Displays(true: [FirstName = true])",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 27,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.208 -0600",
+				"message": "Assertion Succeeded: Last Name Field Displays(true: [LastName = true])",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 28,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.208 -0600",
+				"message": "Assertion Succeeded: Work Email Field Displays(true: [WorkEmail = true])",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 29,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.224 -0600",
+				"message": "Assertion Succeeded: Company Name Field Displays(true: [ComanyName = true])",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 30,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_try_eggplant",
+				"timestamp": "2022-01-31 21:03:04.224 -0600",
+				"message": "Assertion Succeeded: Phone Number Field Displays(true: [PhoneNumber = true])",
+				"scriptName": "WF_Try_Eggplant.script",
+				"handlerLine": 31,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"88.654\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-01-31 21:01:35 -0600\", Successes:\"5\", TestCase:\"WF_Try_Eggplant.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-01-31 21:03:04.345 -0600"
+			},
+		{
+				"message": "Execution Time 0:01:28 WF_Try_Eggplant.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2022-01-31 21:03:04.356 -0600"
+			}
+	],
+	"createdTimestamp": "2022-01-31 21:01:35.690 -0600"
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		501,
+		657,
+		225,
+		25
+	],
+	"lastmodifieddate": 1643765855.2420001,
+	"createddate": 1643765855.2420001,
+	"name": "WF_Downloads/Label_MonitoringInsights",
+	"lastfounddate": 1643856120.536,
+	"ocrcapturestring": "Monitoring Insights",
+	"lastfoundlocation": [
+		501,
+		702,
+		225,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[88,21]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Downloads/Label_MonitoringInsights.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					501,
+					657,
+					225,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Monitoring Insights"
+			}
+	]
+}

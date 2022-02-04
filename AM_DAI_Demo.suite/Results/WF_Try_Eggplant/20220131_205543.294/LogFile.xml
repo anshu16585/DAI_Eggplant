@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_Try_Eggplant_script" package="AM_DAI_Demo.suite" timestamp="2022-01-31 20:55:43.294 -0600"
+ tests="1"  failures="1" errors="0" time="8.176000">
+  <properties>
+   <property name="RunDate" value="2022-01-31 20:55:43.294 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="WF_Try_Eggplant.script" assertions="1" status="failure"  time="8.169">
+    <failure type="FAILURE" message="Invalid Range: Only numeric, date/time, and character ranges are supported (got &quot;False&quot; TO &quot;False&quot;). -- Execution Time 0:00:08 WF_Try_Eggplant.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2022-02-01 18:49:14.064 -0600,"Aborted",0:00:16,1,0,1,"20220201_184914.064/LogFile.txt","","",0
+2022-02-01 20:05:28.941 -0600,"Failure",0:00:04,1,0,1,"20220201_200528.941/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: WF_Support/Label_WorkEmail/Label_GetStarted",0
+2022-02-01 20:06:11.344 -0600,"Success",0:00:07,0,0,0,"20220201_200611.344/LogFile.txt","","",5

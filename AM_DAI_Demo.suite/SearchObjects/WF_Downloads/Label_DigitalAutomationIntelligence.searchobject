@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		501,
+		322,
+		360,
+		24
+	],
+	"lastmodifieddate": 1643765794.3150001,
+	"createddate": 1643765794.3150001,
+	"name": "WF_Downloads/Label_DigitalAutomationIntelligence",
+	"lastfounddate": 1643856119.9689999,
+	"ocrcapturestring": "Digital Automation Intelligence",
+	"lastfoundlocation": [
+		501,
+		767,
+		360,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[28,10]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Downloads/Label_DigitalAutomationIntelligence.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					501,
+					322,
+					360,
+					24
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Digital Automation Intelligence"
+			}
+	]
+}

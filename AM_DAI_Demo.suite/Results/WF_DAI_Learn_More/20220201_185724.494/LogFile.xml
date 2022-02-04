@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="WF_DAI_Learn_More_script" package="AM_DAI_Demo.suite" timestamp="2022-02-01 18:57:24.494 -0600"
+ tests="1"  failures="3" errors="0" time="50.617000">
+  <properties>
+   <property name="RunDate" value="2022-02-01 18:57:24.494 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="WF_DAI_Learn_More.script" assertions="5" status="failure"  time="50.605">
+    <failure type="LogError" message="Assertion Error: Work Email Field Displays(false: [WorkEmail = true])" />
+    <failure type="LogError" message="Assertion Error: Phone Number Field Displays(false: [PhoneNumber = true])" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 2 -- Execution Time 0:00:50 WF_DAI_Learn_More.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

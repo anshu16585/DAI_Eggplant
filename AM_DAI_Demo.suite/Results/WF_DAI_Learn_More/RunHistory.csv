@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2022-02-01 18:57:24.494 -0600,"Failure",0:00:50,2,0,0,"20220201_185724.494/LogFile.txt","","Script Error -- Number of Errors logged: 2",3
+2022-02-01 19:00:22.625 -0600,"Success",0:00:49,0,0,0,"20220201_190022.625/LogFile.txt","","",4

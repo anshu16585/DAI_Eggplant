@@ -1,0 +1,26 @@
+﻿2022-02-01 20:06:11.349 -0600	START		Running WF_Support.script
+2022-02-01 20:06:11.577 -0600	imagerectangle	image_KeySight_Logo	at [352,130,408,198]	2	function_getheaderrect	DAIUtil.script
+2022-02-01 20:06:11.749 -0600	click	WF_Support/Btn_Resources	at (1144, 151)	1	on_wf_support	WF_Support.script
+2022-02-01 20:06:11.765 -0600	waitfor	WF_DAI_Learn_More/Btn_Chrome_Refresh	found at (84, 54)	2	on_wf_support	WF_Support.script
+2022-02-01 20:06:12.677 -0600	click	WF_Support/Btn_Support	at (794, 355)	3	on_wf_support	WF_Support.script
+2022-02-01 20:06:12.693 -0600	waitfor	WF_DAI_Learn_More/Btn_Chrome_Refresh	found at (84, 54)	4	on_wf_support	WF_Support.script
+2022-02-01 20:06:16.289 -0600	imagefound	WF_Support/Label_Manage	Unable to Find Image WF_Support/Label_Manage	12	on_wf_support	WF_Support.script
+2022-02-01 20:06:16.289 -0600	scrollwheeldown		moved 4	13	on_wf_support	WF_Support.script
+2022-02-01 20:06:16.780 -0600	imagefound	WF_Support/Label_GetStarted	found at (530, 548)	15	on_wf_support	WF_Support.script
+2022-02-01 20:06:16.992 -0600	capturescreen	Get Started Link Found.png		17	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.102 -0600	imagefound	WF_Support/Label_BrowseDocs	found at (918, 551)	23	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.327 -0600	capturescreen	Browse Docs & FAQ link Found.png		25	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.405 -0600	imagefound	WF_Support/Label_ViewUser	found at (1326, 549)	30	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.606 -0600	capturescreen	View User Forums link Found.png		32	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.700 -0600	imagefound	WF_Support/Label_CreateSupport	found at (722, 846)	37	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.898 -0600	capturescreen	Create Support Case link Found.png		39	on_wf_support	WF_Support.script
+2022-02-01 20:06:17.976 -0600	imagefound	WF_Support/Label_Manage	found at (1076, 844)	44	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.178 -0600	capturescreen	Manage your Support Case link Found.png		46	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.287 -0600	imagefound	WF_Support/Label_Manage	found at (1076, 844)	50	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.287 -0600	LogSuccess		Assertion Succeeded: Get Started Link Displays(true: [GetStarted = true])	52	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.287 -0600	LogSuccess		Assertion Succeeded: Browse Docs & FAQ link Displays(true: [Browse = true])	53	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.303 -0600	LogSuccess		Assertion Succeeded: View User Forums link Displays(true: [View = true])	54	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.303 -0600	LogSuccess		Assertion Succeeded: Create Support Case link Displays(true: [Create = true])	55	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.303 -0600	LogSuccess		Assertion Succeeded: Manage your Support Case link Displays(true: [Manage = true])	56	on_wf_support	WF_Support.script
+2022-02-01 20:06:18.543 -0600	EndTestCase		(Duration:"7.194", Errors:"0", Exceptions:"0", StartTime:"2022-02-01 20:06:11 -0600", Successes:"5", TestCase:"WF_Support.script", Warnings:"0")
+2022-02-01 20:06:18.590 -0600	SUCCESS		Execution Time 0:00:07 WF_Support.script

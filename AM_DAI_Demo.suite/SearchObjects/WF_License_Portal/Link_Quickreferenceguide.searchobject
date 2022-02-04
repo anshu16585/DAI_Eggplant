@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		601,
+		462,
+		136,
+		16
+	],
+	"lastmodifieddate": 1643768219.4070001,
+	"createddate": 1643768219.4070001,
+	"name": "WF_License_Portal/Link_Quickreferenceguide",
+	"lastfounddate": 1643856165.868,
+	"ocrcapturestring": "Quick reference guide",
+	"lastfoundlocation": [
+		601,
+		507,
+		136,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[42,3]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_License_Portal/Link_Quickreferenceguide.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					601,
+					462,
+					136,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Quick reference guide"
+			}
+	]
+}

@@ -1,0 +1,225 @@
+{
+	"entries": [
+		{
+				"message": "Running WF_Downloads.script",
+				"identifier": "START",
+				"timestamp": "2022-02-01 20:06:28.196 -0600"
+			},
+		{
+				"handlerName": "function_getheaderrect",
+				"timestamp": "2022-02-01 20:06:28.413 -0600",
+				"scriptName": "DAIUtil.script",
+				"message": "at [352,130,408,198]",
+				"image": "image_KeySight_Logo",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:28.569 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "at (1201, 151)",
+				"image": "WF_Support/Btn_Resources",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:28.585 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:29.507 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "at (795, 469)",
+				"image": "WF_Downloads/Btn_Downloads",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:29.522 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (84, 54)",
+				"image": "WF_DAI_Learn_More/Btn_Chrome_Refresh",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.249 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "Unable to Find Image WF_Downloads/Btn_LogintoPortal",
+				"image": "WF_Downloads/Btn_LogintoPortal",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.249 -0600",
+				"message": "moved 4",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 13,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.343 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (529, 732)",
+				"image": "WF_Downloads/Label_DigitalAutomationIntelligence",
+				"handlerLine": 15,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.543 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Digital Automation Intelligence Label Found.png",
+				"handlerLine": 17,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.646 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (1291, 333)",
+				"image": "WF_Downloads/Label_PerformanceandLoadTesting",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.843 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Performance and Load testing Label Found.png",
+				"handlerLine": 25,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:37.952 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (589, 678)",
+				"image": "WF_Downloads/Label_MonitoringInsights",
+				"handlerLine": 30,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.129 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Monitoring Insight Label Found.png",
+				"handlerLine": 32,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.207 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (1374, 669)",
+				"image": "WF_Downloads/Label_RoboticProcessAutomation",
+				"handlerLine": 37,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.384 -0600",
+				"scriptName": "WF_Downloads.script",
+				"image": "Robotic Process Automation Label Found.png",
+				"handlerLine": 39,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.993 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (528, 861)",
+				"image": "WF_Downloads/Btn_LogintoPortal",
+				"handlerLine": 43,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.993 -0600",
+				"message": "Assertion Succeeded: Digital Automation Intelligence Label Displays(true: [Digital = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 45,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.993 -0600",
+				"message": "Assertion Succeeded: Performance and Load testing Label Displays(true: [Performance = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 46,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:38.993 -0600",
+				"message": "Assertion Succeeded: Monitoring Insight Label Displays(true: [Monitoring = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 47,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:39.009 -0600",
+				"message": "Assertion Succeeded: Robotic Process Automation Label Displays(true: [Robotic = true])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 48,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:39.634 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found 3 images",
+				"image": "WF_Downloads/Btn_Download",
+				"handlerLine": 49,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:39.634 -0600",
+				"message": "Assertion Succeeded: Download link for 3 Labels Display(true: [number of items of EveryImageLocation(\"WF_Downloads/Btn_Download\") = 3])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 49,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:40.187 -0600",
+				"scriptName": "WF_Downloads.script",
+				"message": "found at (528, 861)",
+				"image": "WF_Downloads/Btn_LogintoPortal",
+				"handlerLine": 50,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_wf_downloads",
+				"timestamp": "2022-02-01 20:06:40.203 -0600",
+				"message": "Assertion Succeeded: Login to portal Link Display(true: [Imagefound( \"WF_Downloads/Btn_LogintoPortal\")])",
+				"scriptName": "WF_Downloads.script",
+				"handlerLine": 50,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"12.247\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2022-02-01 20:06:28 -0600\", Successes:\"6\", TestCase:\"WF_Downloads.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2022-02-01 20:06:40.443 -0600"
+			},
+		{
+				"message": "Execution Time 0:00:12 WF_Downloads.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2022-02-01 20:06:40.490 -0600"
+			}
+	],
+	"createdTimestamp": "2022-02-01 20:06:28.196 -0600"
+}

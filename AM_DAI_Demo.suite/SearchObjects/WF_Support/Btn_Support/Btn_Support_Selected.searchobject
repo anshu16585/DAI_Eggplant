@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		760,
+		346,
+		63,
+		20
+	],
+	"lastmodifieddate": 1643767827.898,
+	"createddate": 1643767827.898,
+	"name": "WF_Support/Btn_Support/Btn_Support_Selected",
+	"lastfounddate": 1643767829.441,
+	"ocrcapturestring": "Support",
+	"lastfoundlocation": [
+		760,
+		346,
+		63,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[27,12]",
+					"Tolerance": "_49",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "WF_Support/Btn_Support/Btn_Support_Selected.png",
+				"connectionname": "18.130.6.118",
+				"type": 1,
+				"connectionserverid": "18.130.6.118",
+				"capturerect": [
+					760,
+					346,
+					63,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Support"
+			}
+	]
+}

@@ -1,0 +1,3 @@
+﻿2022-01-31 20:55:12.601 -0600	START		Running WF_Try_Eggplant.script
+2022-01-31 20:55:27.304 -0600	EndTestCase		(Duration:"14.703", Errors:"1", Exceptions:"0", StartTime:"2022-01-31 20:55:12 -0600", Successes:"0", TestCase:"WF_Try_Eggplant.script", Warnings:"0")
+2022-01-31 20:55:27.304 -0600	ABORTED		Execution Time 0:00:14 WF_Try_Eggplant.script
