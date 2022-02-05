@@ -5,10 +5,11 @@ Click {ImageName:"WF_Downloads/Btn_Downloads"}
 WaitFor 15, "Btn_Chrome_Refresh" *)
 
 
-TypeText windowsKey, "r"
-TypeText "taskkill /IM chrome.exe" & return
+set urlToLoad = "https://www.eggplantsoftware.com/product-downloads"
 
-DAIUtil.uRLToLoad "downloads"
+TypeText AltKey,"D"
+TypeText urlToLoad & return
+WaitFor 15, "Btn_Chrome_Refresh"
 
 
 set Digital = false

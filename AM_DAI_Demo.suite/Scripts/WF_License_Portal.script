@@ -3,10 +3,13 @@ WaitFor 15, "Btn_Chrome_Refresh"
 Click {ImageName:"WF_License_Portal/Btn_LicencePortal"}
 WaitFor 15, "Btn_Chrome_Refresh", *)
 
-TypeText windowsKey, "r"
-TypeText "taskkill /IM chrome.exe" & return
 
-DAIUtil.uRLToLoad "license"
+set urlToLoad = "https://ksm.software.keysight.com/ASM/External/default.aspx"
+
+
+TypeText AltKey,"D"
+TypeText urlToLoad & return
+WaitFor 15, "Btn_Chrome_Refresh"
 
 Assert that [Imagefound( "WF_License_Portal/Btn_Login")] With Error "Login to portal Link Display"
 Assert that [Imagefound("WF_License_Portal/Btn_Register")] With Error "Register to portal Link Display"

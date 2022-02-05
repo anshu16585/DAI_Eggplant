@@ -3,10 +3,11 @@ WaitFor 15, "Btn_Chrome_Refresh"
 Click {ImageName:"WF_Support/Btn_Support"}
 WaitFor 15, "Btn_Chrome_Refresh" *)
 
-TypeText windowsKey, "r"
-TypeText "taskkill /IM chrome.exe" & return
 
-DAIUtil.uRLToLoad "support"
+set urlToLoad = "https://www.eggplantsoftware.com/support"
+TypeText AltKey,"D"
+TypeText urlToLoad & return
+WaitFor 15, "Btn_Chrome_Refresh"
 
 set GetStarted = false
 set Browse = false

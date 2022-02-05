@@ -1,4 +1,6 @@
-﻿TypeText windowsKey, "r"
+﻿//Testing the CI/CD
+Connect {serverID: "18.130.6.118", portNum: 3389, password: "VUT=>h\vSt\7J`N#-", username: "Candidate", Type:"RDP", Width: 1920, Height: 1080}
+TypeText windowsKey, "r"
 TypeText "taskkill /IM chrome.exe" & return
 
 //calling the hander

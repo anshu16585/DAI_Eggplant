@@ -1,7 +1,9 @@
-﻿TypeText windowsKey, "r"
-TypeText "taskkill /IM chrome.exe" & return
+﻿set urlToLoad = "https://www.eggplantsoftware.com/digital-automation-intelligence"
 
-DAIUtil.uRLToLoad
+TypeText AltKey,"D"
+TypeText urlToLoad & return
+WaitFor 15, "Btn_Chrome_Refresh"
+
 Click "WF_DAI_Learn_More/Btn_Learnmore"
 WaitFor 15, "Btn_Chrome_Refresh"
 
