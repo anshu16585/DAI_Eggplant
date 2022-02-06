@@ -1,6 +1,7 @@
 ﻿set urlToLoad = "https://www.eggplantsoftware.com/digital-automation-intelligence"
 
 //Actual script starts here
+// I am adding this comment here
 TypeText AltKey,"D"
 TypeText urlToLoad & return
 WaitFor 15, "Btn_Chrome_Refresh"
